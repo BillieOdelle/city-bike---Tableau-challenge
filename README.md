@@ -13,6 +13,6 @@ You can download the files within this git hub to see the creation.
 
 Here is the link to Tableau (I only have a public account for a short time so you may need to use the PDF or Power Point for your reference.)
 
-https://public.tableau.com/shared/MPTG6N8NQ?:display_count=n&:origin=viz_share_link
+[https://public.tableau.com/shared/MPTG6N8NQ?:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/billie.gore/viz/TableauChallenge-CityBikes/Top10EndStations)
 
 I combined the 3 data files within Tableau using the Union function before creating the dashboards and Story boards.
